@@ -23,6 +23,7 @@ To use the Bank Management System:
 1. Clone the repository to your local machine.
 2. Compile and run the `BankManagementSystemGUI.java` file.
 3. Follow the on-screen instructions to create an account, log in, and perform banking operations.
+4.To check the background information such as account name, stored password, balance, and account number, please refer to the `bank_accounts.txt` file (which will be created once you make the first account).
 
 ## Technologies Used
 
